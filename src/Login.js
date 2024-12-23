@@ -16,6 +16,7 @@ const Login = () => {
         <input placeholder='Enter Your Password' value={pass} onChange={(event)=>setPass(event.target.value)}/><br/>
         <button onClick={(event)=>onLogin(event)}>Login</button>
   </form>
+
   )
 }
 
