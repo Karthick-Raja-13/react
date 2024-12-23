@@ -17,7 +17,7 @@ const Login = () => {
         <button onClick={(event)=>onLogin(event)}>Login</button>
   </form>
 
-  )
+  
 }
 
 export default Login
