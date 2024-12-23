@@ -1,0 +1,11 @@
+#name,#dpmt{
+    display: block;
+    width: 70%;
+    height: 25px;
+    margin: 5px;
+    text-align: center;
+}
+#submit{
+    margin: 5px 23%;
+    width: 25%;
+}

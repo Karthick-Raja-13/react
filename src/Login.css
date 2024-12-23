@@ -1,0 +1,27 @@
+.container{
+    background-color: #ffd176;
+    margin: 10%;
+    width: 70%;
+    height: 200px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.container input,.container button{
+    flex-basis: 80%;
+    height: 40px;
+    
+}
+.container input{
+    outline: none;
+    text-align: center;
+    border: 0.2px solid black;
+}
+.container button{
+    background-color: #ff911c;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
